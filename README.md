@@ -1,6 +1,7 @@
-# Gen AI Learning Repository
+# Multi-Model Chatbot
 
-Hands-on code snippets and mini-projects built while learning Generative AI concepts using LangChain, Hugging Face, Streamlit, and modern LLM APIs.
+Beginner Streamlit chatbot examples using LangChain, Hugging Face, and
+multiple hosted model providers.
 
 ## Projects & Learning Modules
 
