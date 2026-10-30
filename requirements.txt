@@ -13,3 +13,4 @@ uvicorn
 requests
 faiss-cpu
 tiktoken
+streamlit
